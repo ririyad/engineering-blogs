@@ -221,6 +221,7 @@
 * Medium https://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
+* Mikesdotnetting http://www.mikesdotnetting.com/
 * Mixmax https://mixmax.com/blog/tag/engineering
 * Mixpanel https://code.mixpanel.com/
 * Monetate http://engineering.monetate.com/
